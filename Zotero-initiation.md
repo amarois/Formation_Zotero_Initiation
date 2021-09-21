@@ -81,3 +81,17 @@ Consigne : importez via le connector le document suivant
 - https://www.persee.fr/doc/ahess_0395-2649_1997_num_52_3_279580
 
 Vous avez désormais un doublon dans votre Zotero (si vous n'avez pas supprimé les imports précédents). Fusionnez les doublons en faisant un choix judicieux au niveau de métadonnées
+
+###  Faire partie d'un groupe Zotero
+
+Consigne : expérimentez la collaboration au sein d'un groupe Zotero en demandant à faire partie du groupe suivant
+
+- https://www.zotero.org/groups/4431518/master_mondes_medievaux
+
+![58a341e9047d2c80d73dffe15a59b265.png](img/58a341e9047d2c80d73dffe15a59b265.png)
+
+
+
+
+
+
