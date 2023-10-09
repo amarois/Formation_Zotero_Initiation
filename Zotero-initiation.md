@@ -1,8 +1,8 @@
 # Formation Zotero - Initiation - Master Mondes Médiévaux - sept 2022
 
 ```
-*Mise à jour** : 22 septembre 2022
-**Version** : V2.1
+*Mise à jour** : 09 octobre 2023
+**Version** : V2.2
 ```
 
 ## Installer Zotero
@@ -18,9 +18,9 @@ Installer un environnement de travail complet basé sur Zotero consiste à :
 
 Dans un second temps, il est recommandé (car très utile) de se créer un compte sur le site zotero.org, mais *cela n'est pas indispensable* à l'utilisation du logiciel Zotero. Sachez cependant que créer un compte sur Zotero.org permettra : 
 
-1. une synchronisation de vos références entre plusieurs Zotero si vous utilisez plusieurs postes de travail
-2. un travail collaboratif autour des références bibliographiques au sein de groupes
-3. un premier niveau de sauvegarde de vos données
+1. une synchronisation de vos références entre plusieurs Zotero si vous utilisez plusieurs ordinateurs
+2. un travail collaboratif autour des références bibliographiques au sein de groupes (partage, corrections, notes)
+3. un premier niveau "de sauvegarde" de vos données
 
 Pour créer un compte Zotero : https://www.zotero.org/user/register/ (en cas de login-password oublié : https://www.zotero.org/user/lostpassword)
 
@@ -33,7 +33,7 @@ Nous vous demandons de *procéder à l'installation du logiciel Zotero et du Con
 2. cliquer sur  "Zotero 6 for" (...Windows ou ...MacOS, selon votre système) pour télécharger l'exécutable
 3. lancer l'exécutable .exe ou .dmg une fois téléchargé et installer l'application en suivant l’assistant d'installation
 
-Dans la foulée, et si vous optez pour ouvrir Zotero juste après l'installation (comportement par défaut), le logiciel lancera votre navigateur web par défaut (donc pas nécessairement celui que vous utilisez couramment) et ouvrira la page dédiée au téléchargement de l'extension (Zotero Connector) à l'adresse https://www.zotero.org/download/connectors, donc : 
+Dans la foulée, et si vous optez pour ouvrir Zotero juste après l'installation (comportement par défaut), le logiciel lancera votre navigateur web *par défaut* (donc pas nécessairement celui que vous utilisez couramment) et ouvrira la page dédiée au téléchargement de l'extension (Zotero Connector) à l'adresse https://www.zotero.org/download/connectors, donc pas de panique : 
 
 - si vous êtes sur votre navigateur favoris (parmi : Safari, Edge, Firefox, Chrome), très bien : installez l'extension proposée en cliquant sur "Install" et en acceptant l'installation de l'extension dans votre navigateur
 - si vous préférez utiliser un autre navigateur, fermez le navigateur ouvert par défaut qui ne vous convient pas, puis ouvrez votre navigateur favori et retournez sur https://www.zotero.org/download/connectors (ou https://www.zotero.org/download/ partie droite "Zotero Connector" sur la page web).
@@ -44,10 +44,12 @@ Dans la foulée, et si vous optez pour ouvrir Zotero juste après l'installation
 
 **Note 3** : nous vérifierons ensemble et testerons lors de la séance le plugin de votre traitement de texte.
 
+ **Note 4** : Utilisateur de Linux ? Voyez ici :  https://docs.zotero-fr.org/installation/. Pour les Chromebook, ici : https://docs.zotero-fr.org/kb/installing_on_a_chromebook/
+
 ## Exercices
 ### Collecter des références
 #### Via le connecteur
-Consigne : [utilisez l'extension Zotero](https://www.zotero.org/support/adding_items_to_zotero#via_your_web_browser) (*connector*) de votre navigateur pour collecter les références des ressources pointées ci-dessous :
+Consigne : [utilisez l'extension Zotero](https://www.zotero.org/support/adding_items_to_zotero#via_your_web_browser) (*connector*) de votre navigateur pour collecter les références des ressources pointées par les liens ci-dessous :
 
 1. [https://journals.openedition.org/medievales/10722](https://journals.openedition.org/medievales/10722)
 2. [https://doaj.org/article/91b3a39eee8b4ae8a838f3b22c21b7fb](https://doaj.org/article/91b3a39eee8b4ae8a838f3b22c21b7fb)
@@ -62,24 +64,25 @@ Bonus : importez les 10 premières références sur la page de résultats Google
 ([indice](https://www.zotero.org/support/adding_items_to_zotero#multiple_results))
 
 #### Via un identifiant
-Consigne : utilisez la fonction d'[import à partir d'un identifiant ](https://www.zotero.org/support/adding_items_to_zotero#add_item_by_identifier) pour récupérer les métadonnées des ressources correspondantes :
+Consigne : utilisez la fonction d'[import à partir d'un identifiant ](https://www.zotero.org/support/adding_items_to_zotero#add_item_by_identifier) pour récupérer les métadonnées des documents correspondants :
 
-- un ISBN : 979-10-365-6541-0
+- un ISBN : 978-2-918682-61-5
 - un DOI : 10.1484/M.HAMA-EB.5.117000
+- un identifiant d'une archive ouverte : arXiv:2207.07726
 
-**Note** : "Le _Digital Object Identifier_ (DOI, littéralement « identifiant d’objet numérique ») est le cœur d’un mécanisme d’identification de ressources numériques, comme les revues, articles scientifiques, livres numériques, chapitres de livres, figures, etc. Il est parfois comparé aux ISSN ou ISBN pour le web, mais c’est aussi une alternative à l’instabilité des URL par l’association de la localisation du document et des métadonnées qui lui sont liées." (https://objs-fr.hypotheses.org/367)
+**Note** : "Le _Digital Object Identifier_ (DOI, littéralement « identifiant d’objet numérique ») est le cœur d’un mécanisme d’identification de ressources numériques, comme les revues, articles scientifiques, livres numériques, chapitres de livres, figures[, données de recherche], etc. Il est parfois comparé aux ISSN ou ISBN pour le web, mais c’est aussi une alternative à l’instabilité des URL par l’association de la localisation du document et des métadonnées qui lui sont liées." (https://objs-fr.hypotheses.org/367)
 
-#### Récupération via des PDF
+#### Récupération de références via les PDF correspondants
 Consigne 1 : pointez le lien ci-dessous, collectez  depuis votre navigateur le PDF via le _connector_ Zotero
 
 - [https://halshs.archives-ouvertes.fr/halshs-01484139/document](https://halshs.archives-ouvertes.fr/halshs-01484139/document)
 
-Consigne 2 : tentez de glisser-déposer un PDF présent sur votre disque dur depuis votre explorateur de fichiers vers Zotero. Le résultat variera selon le PDF choisi; examinez le résultat.
+Consigne 2 : tentez de glisser-déposer un PDF présent sur votre disque dur, depuis votre explorateur de fichiers vers Zotero. Le résultat variera selon le PDF choisi; examinez le résultat.
 
 #### STOP : Prenez soin de vos références...!
 En effet, à y regarder de plus près : 
 
-- Le document "[Les cours d'eau et les moulins de Montpellier aux XIIIe-XVe siècles](https://dumas.ccsd.cnrs.fr/dumas-03036676)" est un _mémoire_, assimilable à une thèse dans Zotero, mais il semble avoir comme _type de document_ "Article de revue"=> *changez le type de document*, complétez les champs nécessaires
+- Le document "[Les cours d'eau et les moulins de Montpellier aux XIIIe-XVe siècles](https://dumas.ccsd.cnrs.fr/dumas-03036676)" est un _mémoire_, assimilable à une thèse dans les types de documents Zotero, mais...il semble avoir comme _type de document_ "Article de revue"=> *changez le type de document*, complétez les champs nécessaires
 
 - L'ouvrage "Initiation aux études historiques" existe en version numérique en *Accès Ouvert* => supprimez les éventuels liens sous la notice zotero ("link to Library Catalog...", "Worldcat...") et ajoutez plutôt ce lien pour le consulter facilement en ligne : [https://lib.isiaccess.com/process/reader/book.php?ean=9782380941210](https://lib.isiaccess.com/process/reader/book.php?ean=9782380941210)
 
@@ -89,12 +92,12 @@ En effet, à y regarder de plus près :
 
 - Certains PDF en pièces jointes de vos références sont mal nommés ("Full Text", etc) => renommez les un à un. (clic droit > Renommer le fichier à partir...
 
-**Important** : le connecteur Zotero importe...ce qu'il trouve. Il ne fait aucun contrôle. C'est à vous de les faire. Faites-les le plus systématiquement possible, sinon votre bibliothèque de références deviendra vite ingérable. Assez rapidement vous trouverez quelles bases de données, catalogues de bibliothèques, etc. privilégier pour tel ou tel type de référence, ce qui limitera les retouches à faire.
+**Important** : le connecteur Zotero importe...ce qu'il trouve. Il ne fait aucun contrôle. C'est à vous de contrôler les métadonnées. Faites-le le plus systématiquement possible, sinon votre bibliothèque de références deviendra vite inutilisable. Assez rapidement vous trouverez quelles bases de données, catalogues de bibliothèques, etc. privilégier pour tel ou tel type de référence, ce qui limitera les retouches à faire !
 
 #### Via un import de fichier de références
 **Cas d'école** : on vous *partage* une bibliographie complète dans [un format "Zotero compatible"](https://www.zotero.org/support/kb/importing_standardized_formats) ! Téléchargez le fichier compressé suivant - à décompresser sur votre poste - puis utilisez la fonction d'**import** de Zotero pour récupérer l'ensemble des références et fichiers joints
 
-- https://bul.univ-lyon2.fr/index.php/s/c6wQgyBe2zlnLGW
+- https://bul.univ-lyon2.fr/index.php/s/OkY0shMNko4rQiu
 
 (indice : Fichier > Importer... ; pour l'import, choisissez le fichier "Documents exportés.rdf"; dans le processus, **gardez bien cochée** l'option "Placer les collections et les documents importés dans une nouvelle collection")
 
