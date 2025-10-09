@@ -87,10 +87,15 @@ Consigne : utilisez la fonction d'[import à partir d'un identifiant ](https://w
 Bonus : importez un ensemble de références d'ouvrage via la liste de leur isbn formatée (un isbn par ligne) :
 
 978-2-416-00019-5
+
 978-1-62203-202-0
+
 978-22-1282-155-0
+
 978-0-385-51782-9
+
 978-1-905211-20-3
+
 9782876914773
 
 #### Récupération de références via les PDF correspondants
