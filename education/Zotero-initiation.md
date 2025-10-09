@@ -85,6 +85,7 @@ Consigne : utilisez la fonction d'[import à partir d'un identifiant ](https://w
 **Note** : "Le _Digital Object Identifier_ (DOI, littéralement « identifiant d’objet numérique ») est le cœur d’un mécanisme d’identification de ressources numériques, comme les revues, articles scientifiques, livres numériques, chapitres de livres, figures[, données de recherche], etc. Il est parfois comparé aux ISSN ou ISBN pour le web, mais c’est aussi une alternative à l’instabilité des URL par l’association de la localisation du document et des métadonnées qui lui sont liées." (https://objs-fr.hypotheses.org/367)
 
 Bonus : importez un ensemble de références d'ouvrage via la liste de leur isbn formatée (un isbn par ligne) :
+
 978-2-416-00019-5
 978-1-62203-202-0
 978-22-1282-155-0
