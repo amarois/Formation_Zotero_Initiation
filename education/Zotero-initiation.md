@@ -1,8 +1,11 @@
 # Formation Zotero - Initiation - IFE - octobre 2025
 
 ```
+Auteur : Alain Marois
+Licence : CC BY
 *Mise à jour** : 7 novembre 2025
 **Version** : V1.2
+
 ```
 
 ## Installer Zotero
@@ -46,7 +49,7 @@ Dans la foulée, et si vous optez pour ouvrir Zotero juste après l'installation
 
  **Note 4** : Utilisateur de Linux ? Voyez ici :  https://docs.zotero-fr.org/installation/. Pour les Chromebook, ici : https://docs.zotero-fr.org/kb/installing_on_a_chromebook/
 
-## Exercices
+## Exercices durant la séance
 ### Collecter des références
 #### Via le connecteur (extension Zotero du navigateur)
 Consigne : utilisez l'extension Zotero (*connector*) de votre navigateur pour collecter les références des ressources pointées par les liens ci-dessous (instructions [fr](https://docs.zotero-fr.org/adding_items_to_zotero/#via-votre-navigateur-web) ou [en](https://www.zotero.org/support/adding_items_to_zotero#via_your_web_browser)) :
@@ -76,7 +79,7 @@ Bonus : importez les 10 premières références sur la page de résultats Google
 ([indice fr](https://www.zotero.org/support/adding_items_to_zotero#multiple_results) ou [indice en](https://docs.zotero-fr.org/adding_items_to_zotero/#resultats-multiples))
 
 #### Via un identifiant
-Consigne : utilisez la fonction d'import à partir d'un identifiant (documentation [fr]](https://docs.zotero-fr.org/adding_items_to_zotero/#ajouter-un-document-par-son-identifiant) ou [en](https://www.zotero.org/support/adding_items_to_zotero#add_item_by_identifier)) pour récupérer les métadonnées des documents correspondants :
+Consigne : utilisez la fonction d'import à partir d'un identifiant (documentation [fr](https://docs.zotero-fr.org/adding_items_to_zotero/#ajouter-un-document-par-son-identifiant) ou [en](https://www.zotero.org/support/adding_items_to_zotero#add_item_by_identifier)) pour récupérer les métadonnées des documents correspondants :
 
 - un ISBN : 979-10-362-0834-8
 - un DOI : 10.35562/diversite.3860
@@ -86,12 +89,14 @@ Consigne : utilisez la fonction d'import à partir d'un identifiant (documentati
 
 Bonus : importez un ensemble de références d'ouvrage via la liste de leur isbn formatée (un isbn par ligne) :
 
-```978-2-416-00019-5  
+```
+978-2-416-00019-5  
 978-1-62203-202-0  
 978-22-1282-155-0  
 978-0-385-51782-9  
 978-1-905211-20-3  
-9782876914773```
+9782876914773
+```
 
 
 #### Récupération de références via les PDF correspondants
