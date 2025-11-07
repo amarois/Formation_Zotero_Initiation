@@ -1,8 +1,8 @@
 # Formation Zotero - Initiation - IFE - octobre 2025
 
 ```
-*Mise à jour** : 9 octobre 2025
-**Version** : V1
+*Mise à jour** : 7 novembre 2025
+**Version** : V1.2
 ```
 
 ## Installer Zotero
@@ -30,7 +30,7 @@ Nous vous demandons de *procéder à l'installation du logiciel Zotero et du Con
 **Pour télécharger le logiciel** : 
 
 1. se rendre sur le site Zotero.org : https://www.zotero.org/download/
-2. cliquer sur  "Zotero 6 for" (...Windows ou ...MacOS, selon votre système) pour télécharger l'exécutable
+2. cliquer sur  "Zotero 7 for" (...Windows ou ...MacOS, selon votre système) pour télécharger l'exécutable
 3. lancer l'exécutable .exe ou .dmg une fois téléchargé et installer l'application en suivant l’assistant d'installation
 
 Dans la foulée, et si vous optez pour ouvrir Zotero juste après l'installation (comportement par défaut), le logiciel lancera votre navigateur web *par défaut* (donc pas nécessairement celui que vous utilisez couramment) et ouvrira la page dédiée au téléchargement de l'extension (Zotero Connector) à l'adresse https://www.zotero.org/download/connectors, donc pas de panique : 
@@ -49,7 +49,7 @@ Dans la foulée, et si vous optez pour ouvrir Zotero juste après l'installation
 ## Exercices
 ### Collecter des références
 #### Via le connecteur (extension Zotero du navigateur)
-Consigne : [utilisez l'extension Zotero](https://www.zotero.org/support/adding_items_to_zotero#via_your_web_browser) (*connector*) de votre navigateur pour collecter les références des ressources pointées par les liens ci-dessous :
+Consigne : utilisez l'extension Zotero (*connector*) de votre navigateur pour collecter les références des ressources pointées par les liens ci-dessous (instructions [fr](https://docs.zotero-fr.org/adding_items_to_zotero/#via-votre-navigateur-web) ou [en](https://www.zotero.org/support/adding_items_to_zotero#via_your_web_browser)) :
 
 1. Des livres
     * [Via une plateforme de publication](https://books.openedition.org/enseditions/63096)
@@ -73,10 +73,10 @@ Bonus : importez les 10 premières références sur la page de résultats Google
 
 - [https://scholar.google.fr/scholar?as_q=&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=Peter+Senge&as_publication=&as_ylo=&as_yhi=&hl=fr&as_sdt=0%2C5](https://scholar.google.fr/scholar?as_q=&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=Peter+Senge&as_publication=&as_ylo=&as_yhi=&hl=fr&as_sdt=0%2C5)
 
-([indice](https://www.zotero.org/support/adding_items_to_zotero#multiple_results))
+([indice fr](https://www.zotero.org/support/adding_items_to_zotero#multiple_results) ou [indice en](https://docs.zotero-fr.org/adding_items_to_zotero/#resultats-multiples))
 
 #### Via un identifiant
-Consigne : utilisez la fonction d'[import à partir d'un identifiant ](https://www.zotero.org/support/adding_items_to_zotero#add_item_by_identifier) pour récupérer les métadonnées des documents correspondants :
+Consigne : utilisez la fonction d'import à partir d'un identifiant (documentation [fr]](https://docs.zotero-fr.org/adding_items_to_zotero/#ajouter-un-document-par-son-identifiant) ou [en](https://www.zotero.org/support/adding_items_to_zotero#add_item_by_identifier)) pour récupérer les métadonnées des documents correspondants :
 
 - un ISBN : 979-10-362-0834-8
 - un DOI : 10.35562/diversite.3860
@@ -86,17 +86,13 @@ Consigne : utilisez la fonction d'[import à partir d'un identifiant ](https://w
 
 Bonus : importez un ensemble de références d'ouvrage via la liste de leur isbn formatée (un isbn par ligne) :
 
-978-2-416-00019-5
+```978-2-416-00019-5  
+978-1-62203-202-0  
+978-22-1282-155-0  
+978-0-385-51782-9  
+978-1-905211-20-3  
+9782876914773```
 
-978-1-62203-202-0
-
-978-22-1282-155-0
-
-978-0-385-51782-9
-
-978-1-905211-20-3
-
-9782876914773
 
 #### Récupération de références via les PDF correspondants
 Consigne 1 : pointez le lien ci-dessous, collectez  depuis votre navigateur le PDF via le _connector_ Zotero
