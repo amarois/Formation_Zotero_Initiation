@@ -76,7 +76,7 @@ Bonus : importez les 10 premières références sur la page de résultats Google
 
 - [https://scholar.google.fr/scholar?as_q=&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=Peter+Senge&as_publication=&as_ylo=&as_yhi=&hl=fr&as_sdt=0%2C5](https://scholar.google.fr/scholar?as_q=&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=Peter+Senge&as_publication=&as_ylo=&as_yhi=&hl=fr&as_sdt=0%2C5)
 
-([indice fr](https://www.zotero.org/support/adding_items_to_zotero#multiple_results) ou [indice en](https://docs.zotero-fr.org/adding_items_to_zotero/#resultats-multiples))
+([indice fr](https://docs.zotero-fr.org/adding_items_to_zotero/#resultats-multiples) ou [indice en](https://www.zotero.org/support/adding_items_to_zotero#multiple_results))
 
 #### Via un identifiant
 Consigne : utilisez la fonction d'import à partir d'un identifiant (documentation [fr](https://docs.zotero-fr.org/adding_items_to_zotero/#ajouter-un-document-par-son-identifiant) ou [en](https://www.zotero.org/support/adding_items_to_zotero#add_item_by_identifier)) pour récupérer les métadonnées des documents correspondants :
@@ -106,7 +106,7 @@ Consigne 1 : pointez le lien ci-dessous, collectez  depuis votre navigateur le P
 
 Consigne 2, au choix : 
 * tentez de glisser-déposer un PDF présent sur votre disque dur, depuis votre explorateur de fichiers vers Zotero. Le résultat variera selon le PDF choisi; examinez le résultat.
-* ou [téléchargez le .zip contenant plusieurs PDF](assets/PDF-exemple-import-zotero.zip), décompressez et glissez tous les fichiers d'un coup dans votre Zotero
+* ou [téléchargez le .zip contenant plusieurs PDF](assets/PDF-exemple-import-zotero.zip), décompressez et glissez tous les fichiers d'**un coup** dans votre Zotero
 
 
 #### Via un import de fichier de références
